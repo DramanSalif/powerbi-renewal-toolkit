@@ -6,7 +6,7 @@ This repository provides everything you need to prepare for the **Microsoft Cert
 !DAX & Copilot Cheat Sheet
 
 ## Overview
-This repository provides everything you need to prepare for the **Microsoft Certified: Power BI Data Analyst Associate renewal**.
+This blog post provides a complete hands-on workflow to help you renew your Microsoft Certified: Power BI Data Analyst Associate certification. It covers the latest features like Copilot, Direct Lake, and advanced DAX, and includes study plans, cheat sheets, dashboard exercises, and exam simulations.
 
 ## Contents
 
